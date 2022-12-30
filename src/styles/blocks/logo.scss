@@ -1,9 +1,0 @@
-.logo {
-  &__image {
-    @include size (130px, 17px);
-
-    @include onBigScreen {
-      @include size (190px, 24px);
-    }
-  }
-}
